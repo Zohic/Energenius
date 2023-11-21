@@ -1,19 +1,34 @@
 # Energenius
-Inventing bicycle on c++
-graphic/game engine using winapi and directx
-/---------------------------------------------------------------------------------
-visual studio 
 
+<h3>2d graphic/game engine using winapi and directx</h3>
+(currently stuck on adding physics)<br><br>
+/-----------------------------Notes for myself------------------------------
+<h4>
+visual studio
+<br>
 Свойства конфигурации
+  <br>
   |-дополнительно 
+  <br>
     |-набор символов = многобайтовая кодировка
+  <br>
 Компоновщик
+  <br>
   |-система 
+  <br>
     |-подсистема = Windows
+  <br>
 /---------------------------------------------------------------------------------    
+  <br>
 свойства шейдеров FramebufferPS, FramebufferVS
+  <br>
   точки входа = FramebufferPS, FramebufferVS
+  <br>
   тип шейдера = пиксельный, вершинный
+  <br>
 /---------------------------------------------------------------------------------
+  <br>
 шейдеры EPixelShader, EVertexShader исключить
+  <br>
 /---------------------------------------------------------------------------------
+</h4>
