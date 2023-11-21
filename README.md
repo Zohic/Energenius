@@ -1,6 +1,7 @@
 # Energenius
 
 <h3>2d graphic/game engine using winapi and directx</h3>
+(currently stuck on adding physics)<br><br>
 /-----------------------------Notes for myself------------------------------
 <h4>
 visual studio
